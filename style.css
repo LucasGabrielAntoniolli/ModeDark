@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+div {
+    height: 50%;
+    width: 50%;
+    background-color: #C0C0C0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    color: white;
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+    color: orangered;
+}
